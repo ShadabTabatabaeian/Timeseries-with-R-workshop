@@ -1,7 +1,5 @@
 # Time Series Tutorial
 
-This is a GitHub-friendly reading version of the notebook source in [Time_series_updated_final.Rmd](./Time_series_updated_final.Rmd). The goal is to keep the explanation and figures easy to read in the repository preview without exposing all of the implementation code by default.
-
 ## What is Time Series Data?
 
 - A set of observations on the values that a variable takes at regular time intervals.
